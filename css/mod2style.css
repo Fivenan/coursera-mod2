@@ -26,7 +26,6 @@ article {
     font-weight: bold;
     border: solid black;
     border-width: 0px 0px 3px 3px;
-    background-color: rgb(255, 86, 114);
     margin: -10px -10px 15px 0px;
     padding: 2px 20px 2px 20px;
     width:150px;
@@ -55,6 +54,10 @@ div.row div:nth-child(3) .food {
     background-color: rgb(136, 136, 136);
     padding: 10px;
     height: 200px;
+}
+
+.container-fluid {
+    margin: 5px;
 }
 
 @media (min-width: 992px) {
